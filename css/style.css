@@ -150,3 +150,50 @@ body {
 
 
 
+  .botton_links2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.links2 {
+    margin-bottom: 20px;
+    color: #fff;
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    width: 350px;
+}
+.link_item2 a {
+    color: #fff;
+}
+.link_item2 a i{
+    padding-right: 40px;
+}
+.link_item2 {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 5px solid#fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+}
+
+.telegram2:hover {
+    border-color: #088de6;
+    box-shadow: 0px 0px 25px #088de6;
+    color: #088de6;
+}
+.instagram2:hover {
+    border-color: #25d366;
+    box-shadow: 0px 0px 25px #25d366;
+    color: #25d366;
+}
+.youtube2:hover {
+    border-color: #0e70b1;
+    box-shadow: 0px 0px 25px #0e70b1;
+    color: #0e70b1;
+}
+
